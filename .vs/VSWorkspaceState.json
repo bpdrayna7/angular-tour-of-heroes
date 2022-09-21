@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.angular",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\hero-search"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\hero-search\\hero-search.component.css",
+  "SelectedNode": "\\C:\\Users\\bpdra\\source\\repos\\angular-tour-of-heroes",
   "PreviewInSolutionExplorer": false
 }
